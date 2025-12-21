@@ -1,0 +1,17 @@
+{
+  "name": "gorevyuku",
+  "version": "1.0.0",
+  "description": "Görev Yükü Okuyucusu",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "roket"
+  ],
+  "author": "Akif9748",
+  "license": "MIT",
+    "dependencies": {
+      "serialport": "^13.0.0"
+    }  
+}
