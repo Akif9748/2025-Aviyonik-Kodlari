@@ -15,6 +15,3 @@ Kodlar, roket verici, görev yükü verici ve okuyucuları ve roket debuglamak i
 ROKET_VERICI içindeki debug mod açılarak kod daha rahat test edilebilir.
 
 Akif Y. tarafından hazırlanmıştır.
-
-
-CEYLİNİ COK SEVİYORUM
